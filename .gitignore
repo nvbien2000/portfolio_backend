@@ -1,4 +1,8 @@
 .env
 .DS_Store
 
-tmp/
+
+# Air temporary directory
+/tmp
+air_build.log
+air_run.log # Nếu bạn cấu hình log cho quá trình run
